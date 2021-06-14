@@ -1,7 +1,7 @@
-- 👨🏻 Hi, I’m @wyattcampiz
-- 🖥 I'm a designer & photographer
-- 📚 I’m currently learning HTML, CSS & JS
-- 📮 How to reach me hello@wyattcampiz.com
+- 👨🏻  Hi, I’m @wyattcampiz
+- 🖥  I'm a designer & photographer
+- 📚  Currently learning HTML, CSS & JS
+- 📮  How to reach me hello@wyattcampiz.com
 
 <!---
 wyattcampiz/wyattcampiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
